@@ -1,7 +1,7 @@
 ---
-title: About
 layout: page
----
+title: About
+—
 
 <p>some stuff about me would probably go here
 
